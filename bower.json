@@ -2,9 +2,10 @@
   "name": "ember-app",
   "version": "0.0.0",
   "dependencies": {
-    "jquery": "~1.9.1"
+    "jquery": "~2.0.3",
+    "foundation": "~4.3.1"
   },
   "devDependencies": {
-    "ember-mocha-adapter": "0.1.1"
+    "ember-mocha-adapter": "0.1.2"
   }
 }
